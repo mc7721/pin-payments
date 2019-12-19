@@ -1,0 +1,67 @@
+{
+    "name": "Pin Payments",
+    "description": "<p>An all-in-one developer API for accepting credit card payments online in multiple currencies. Through integrations with key e-commerce &amp; business platforms (https:\/\/pin.net.au\/partners) Pin Payments also enables small businesses to start accepting payments online quickly &amp; easily.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/2179_logo.png",
+    "tags": [
+        "credit",
+        "debit",
+        "financial",
+        "have api",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pin-payments\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pin Payments",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/2179_logo.png",
+            "humanURL": "https:\/\/pin.net.au\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pin-payments-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.pin.net.au"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/pin.net.au\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/pin.net.au\/blog.atom"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pin-payments"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/pin.net.au\/docs\/guides\/request-payments"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/pin.net.au\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pin_payments"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/pin.net.au\/"
+        }
+    ]
+}
